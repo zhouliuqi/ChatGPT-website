@@ -83,7 +83,7 @@ $(document).ready(function() {
     
     // 保存api key与对话数据
     var data = {
-      "apiKey" : "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", // 这里填写固定 apiKey
+      "apiKey" : "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", // 这里填写固定 apiKey
     }
    
     // 判断是否使用自己的api key
