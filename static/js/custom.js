@@ -101,9 +101,6 @@ $(document).ready(function() {
       }
 
     }
-    if (data.apiKey.length==0){
-        data.apiKey = "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";
-    }
 
     var message = chatInput.val();
     if (message.length == 0){
